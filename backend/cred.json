@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "heroic-habitat-439606-r8",
+  "private_key_id": "0e565a51ceaf37ed5e9e45bdf26a8658d2b3a78b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9E8gR9EXM7D24\nF3kWJ+Lewl4eIfoIJEiPFfLSwsPi0+0efc/tbwkVD+3LH5FLVjdEVhDeOxwOPwFD\nzOFqfWRPMH6gQKmOVJeY883eVy9PFp7OH0E5MeqLVMPYZpB54LSdDSxyFjY77yU+\nzaP8lIqAEyzQ5YGCzpgavyWHmVj2cLTeXxipHtR3TuHzbsVp+JbQ436UoiNVzHFv\n0jHrNcic6OKY3xsPKJH0n99+DNVdIIiuua9cBmNaD1RIsyoNINgidbVZACDoWMQ7\nlre6A+R4gdCSy1lEfuDh1fz8EPrfIPkCsGx+PdJPYx2Ghg9H3g65ry33XIlA116S\nCDq7BmZBAgMBAAECggEAC35Y1/KOjarsrjSgaTQ1KnphPe6tzsc52+zRzSBcHP0/\nTu5cmzUiiwkOrkggd8EUF0+DXfxKM87TqltEIUo3CfNLjJKcW/5mFWejTjk5iH1l\nBj2dzuFrEwYs6N+EjSFs3pZ5la57pIALNmVKFdAHwp+nxpkKRY5+bjMhZRFGzaV9\nsvZKShYxwXq1lmGTIySf/1FY0FubZb9a2qbHhRn5pZ/pbfa6NKT/dfJTRGu/GPvY\nAzTym2O7cOWFh+ivmWDp131x4avrqVu/U7PBT6PAqXt93ftIgAMy1jXdzBdNtgjN\nZqQEFmqMFyLKLulomgEseG6/R9VxCB8Tib2/99hyywKBgQD1kBCdc3cifZZ2h05k\njNuuVFy+rdh/hOqeijfWcgmwRu/qbpNF5cZRpSmZjApfhlEgZLpdbx73VcwDDUL0\nL5KOQbYVTG1KeNNypknSa+gl1kOKPrhEwJrblFkXBZeWhHKdwDw2M0HNSL40gdVp\nyzZ/HCA5F40MvOBDW24pxL+NxwKBgQDFHRsRbLHOCPv8Avn4pxB5v8t9A/H6hbmR\nvLQrAftDXKxWET8LeCczUqKcAWNiWoZjHOZ5ZC4sDG0k83QY/L4NMNntJz5N0q3r\nPfzRCbXlIbQHlJ0fNMY0A79dH9yW7+Fs+j35EYcRB99w52nwP3um3CTklEfEjqsT\nqe30XvuLtwKBgAO6azYowZ9JbtZf2YXXSaKM71eJxiaxeuprSMu9sX32pb/Wa+/8\nvBUTP91v7dxjaqnmPZobjMnOiKlnMyQH8N6uCriqD2K5EOTFt4s1TjH83cukhiGt\nFuzMhMm/sPx9CExy1bcw8gfO2exsKDRR/ILTh322aNLPr0v2gGar8QiTAoGBAI5C\ngl2iB/V+cHaio0x9Lpvf+3nflg3L43E2MwXzKSelw89eJRUfA5O76RYUvmimkuUH\nX6Nu1Q//a+pGNp0uE/ArOK07LHE4Q0NLeqJXksqq92adMITsLrwtlDgenbLlr9la\nBc4zgzqcZvvyWHgHKTP1ID9EcUOAACJx+wXqYzujAoGBAIYfVgTTK6OfQKii1T12\npIyzkC7LkzpVtw4Y9gIlTJxVyhSvx0w923DncG0Cv2jeoCxPy09dRilDD6Ucl9bV\nOm5K7jej7TWYsn4RyVFah3XuFX5CLr70fzR9RRGNS0Qneu6qm73pAuO8X75yVV6a\nqdw0AQRAebpQxdVmVOI1kASy\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveupload@heroic-habitat-439606-r8.iam.gserviceaccount.com",
+  "client_id": "109021803190651152600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveupload%40heroic-habitat-439606-r8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
